@@ -31,6 +31,6 @@
 - [ScorpioMartianus](https://www.youtube.com/@ScorpioMartianus) - Spoken Latin, Ancient Greek, and Ancient Egyptian
 - [polýMATHY](https://www.youtube.com/@polyMATHY_Luke) - Polymathy is the study of many things - with several videos on Latin
 
-## Web
+## Web
 
 - [r/Latin](https://www.reddit.com/r/latin/) - Reddit community for discussions related to the Latin language. Very active and helpful!
