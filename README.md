@@ -5,7 +5,21 @@
 ## Translation 
 
 - [Kagi Translate](https://translate.kagi.com/)
-- [Google Translate](https://translate.google.com/)o
+- [Google Translate](https://translate.google.com/)
+
+## Dictionary
+
+These sites usually offer more than just simple word lookup 💡
+
+- [Glosbe](https://glosbe.com/en/la) - Glosbe is the biggest community-built dictionary
+- [Latdict](https://www.latin-dictionary.net/) - Latdict was created to be a Latin resource website, provided free of charge, to the online community.
+- [Latin-English Disctionary](https://www.latin-english.com/) - A simple and powerful online Latin dictionary
+- [Latin is Simple](https://www.latin-is-simple.com/en/) - A Latin online dictionary for students - also features Trainer, Library and much more!
+- [Latin Lexicon](https://latinlexicon.org/search_english.php)
+- [Perseus Hopper](https://www.perseus.tufts.edu/hopper/) - In development since 1987, covers the history, literature and culture of the Greco-Roman world
+- [Latin - English Dictionary](https://www.online-latin-dictionary.com/) - The largest and most complete online Latin dictionary with a conjugator and a declension tool included.
+- [Collatinus web](https://outils.biblissima.fr/en/collatinus-web/index.php) - Online lemmatiser and morphological analyser for Latin texts
+- [Dictionarium latino-anglicum](https://la-en.dict.cc/) - Every user is encouraged to contribute to the Latin-English dictionary by adding and/or verifying translation suggestions. The resulting vocabulary database can be downloaded and used for free.
 
 ## Apps
 
