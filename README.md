@@ -48,6 +48,7 @@ These sites usually offer more than just simple word lookup 💡
 - [Easy Latin](https://www.youtube.com/@EasyLatin) - Learn Latin with easy lessons on YouTube and through simple stories
 - [ScorpioMartianus](https://www.youtube.com/@ScorpioMartianus) - Spoken Latin, Ancient Greek, and Ancient Egyptian
 - [polýMATHY](https://www.youtube.com/@polyMATHY_Luke) - Polymathy is the study of many things - with several videos on Latin
+- [Magister Craft](https://www.youtube.com/@MagisterCraft) - Latin language videos about ancient Rome illustrated with Minecraft, with English subtitles
 
 ## Communities
 
