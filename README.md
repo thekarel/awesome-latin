@@ -39,3 +39,4 @@
 ## Communities
 
 - [r/Latin](https://www.reddit.com/r/latin/) - Reddit community for discussions related to the Latin language. Very active and helpful!
+- [Latin Language Stack Exchange](https://latin.stackexchange.com/)
