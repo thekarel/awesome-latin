@@ -13,7 +13,7 @@ These sites usually offer more than just simple word lookup 💡
 
 - [Glosbe](https://glosbe.com/en/la) - Glosbe is the biggest community-built dictionary
 - [Latdict](https://www.latin-dictionary.net/) - Latdict was created to be a Latin resource website, provided free of charge, to the online community.
-- [Latin-English Disctionary](https://www.latin-english.com/) - A simple and powerful online Latin dictionary
+- [Latin-English Dictionary](https://www.latin-english.com/) - A simple and powerful online Latin dictionary
 - [Latin is Simple](https://www.latin-is-simple.com/en/) - A Latin online dictionary for students - also features Trainer, Library and much more!
 - [Latin Lexicon](https://latinlexicon.org/search_english.php)
 - [Perseus Hopper](https://www.perseus.tufts.edu/hopper/) - In development since 1987, covers the history, literature and culture of the Greco-Roman world
@@ -31,13 +31,13 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Books
 
-- [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
+- [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high-quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
 - [Latinitium Books & Audiobooks](https://store.latinitium.com/) 
 
 ## Podcasts
 
-- [Litterae Latinae Simplices](https://podcasters.spotify.com/pod/show/litterae-latinae) - Learn about the history of Latin literature while practicing your spoken Latin comprehension (beginner)
-- [Satura Lanx - Latin language and literature for beginners](https://podcasters.spotify.com/pod/show/satura-lanx) - upper beginner / intermediate podcast told in beginner-friendly, easy spoken Latin.
+- [Litterae Latinae Simplices](https://podcasters.spotify.com/pod/show/litterae-latinae) - Learn about the history of Latin literature while practising your spoken Latin comprehension (beginner)
+- [Satura Lanx - Latin language and literature for beginners](https://podcasters.spotify.com/pod/show/satura-lanx) - upper beginner / intermediate podcast told in beginner-friendly, easy-spoken Latin.
 - [Rara avis](https://podcasters.spotify.com/pod/show/rara-avis-podcast) - Advanced spoken Latin podcast by Irene Regini. Interviews with some "rarae aves", incredibly talented persons who achieved amazing results in the field of the Latin language.
 
 ## YouTube
@@ -46,7 +46,7 @@ These sites usually offer more than just simple word lookup 💡
 - [Latin From Scratch](https://www.youtube.com/@latinfromscratch) - Latin, Classics & Some Reasonable Linguistics
 - [Latin Tutorial](https://www.youtube.com/@latintutorial/) - Latin doesn't have to be hard
 - [Latinitium](https://www.youtube.com/@Latinitium) - Videos in Latin on a variety of subjects, ranging from idioms, literature to random stuff and tips for learning Latin
-- [Easy Latin](https://www.youtube.com/@EasyLatin) - Learn Latin with easy lessons on Youtube and through simple stories
+- [Easy Latin](https://www.youtube.com/@EasyLatin) - Learn Latin with easy lessons on YouTube and through simple stories
 - [ScorpioMartianus](https://www.youtube.com/@ScorpioMartianus) - Spoken Latin, Ancient Greek, and Ancient Egyptian
 - [polýMATHY](https://www.youtube.com/@polyMATHY_Luke) - Polymathy is the study of many things - with several videos on Latin
 
@@ -57,4 +57,4 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Latin Material
 
-- [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind boggling amount of Latin books, audio and other resources.
+- [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind-boggling amount of Latin books, dictionaries, audio and other resources.
