@@ -24,10 +24,9 @@ These sites usually offer more than just simple word lookup 💡
 ## Apps
 
 - [Legentibus](https://latinitium.com/legentibus) - A library of Latin texts with synchronized audio on your smartphone or tablet ([iOS](https://apps.apple.com/us/app/legentibus-learn-latin/id1545335612#?platform=iphone), [Android](https://play.google.com/store/apps/details?id=app.legentibus.shelf)) 
-
 - [Cattus Learn Latin](https://cattus.app/) - Cattus is an app designed for learning Latin from its most basic principles to intermediate levels ([iOS](https://apps.apple.com/gb/app/cattus-learn-latin/id1549661920), [Android](https://play.google.com/store/apps/details?id=com.cattuslatin.cattus_app&hl=en-US))
-
 - [Duolingo](https://www.duolingo.com/) The free, fun, and effective way to learn a language - with a shorter Latin course
+- [Collatinus web](https://outils.biblissima.fr/en/collatinus-web/index.php) - Lemmatiser and morphological analyser for Latin texts - runs on Windows, Mac and Linux (open source)
 
 ## Books
 
