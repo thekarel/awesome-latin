@@ -5,7 +5,7 @@
 ## Translation 
 
 - [Kagi Translate](https://translate.kagi.com/)
-- [Google Translate](https://translate.google.com/)
+- [Google Translate](https://translate.google.com/)o
 
 ## Apps
 
@@ -40,3 +40,7 @@
 
 - [r/Latin](https://www.reddit.com/r/latin/) - Reddit community for discussions related to the Latin language. Very active and helpful!
 - [Latin Language Stack Exchange](https://latin.stackexchange.com/)
+
+## Latin Material
+
+- [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind boggling amount of Latin books, audio and other resources.
