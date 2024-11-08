@@ -2,6 +2,11 @@
 
 > A curated list of some *egregius* Latin language resources
 
+## Translation 
+
+- [Kagi Translate](https://translate.kagi.com/)
+- [Google Translate](https://translate.google.com/)
+
 ## Apps
 
 - [Legentibus](https://latinitium.com/legentibus) - A library of Latin texts with synchronized audio on your smartphone or tablet ([iOS](https://apps.apple.com/us/app/legentibus-learn-latin/id1545335612#?platform=iphone), [Android](https://play.google.com/store/apps/details?id=app.legentibus.shelf)) 
@@ -31,6 +36,6 @@
 - [ScorpioMartianus](https://www.youtube.com/@ScorpioMartianus) - Spoken Latin, Ancient Greek, and Ancient Egyptian
 - [polýMATHY](https://www.youtube.com/@polyMATHY_Luke) - Polymathy is the study of many things - with several videos on Latin
 
-## Web
+## Communities
 
 - [r/Latin](https://www.reddit.com/r/latin/) - Reddit community for discussions related to the Latin language. Very active and helpful!
