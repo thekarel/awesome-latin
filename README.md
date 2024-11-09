@@ -11,7 +11,7 @@
 
 These sites usually offer more than just simple word lookup 💡
 
-- [Velut](https://www.velut.co.uk/) - Website returning information on Latin vocabulary. There are lists of rhymes, tables of inflected forms, links to other online resources, and several other features.
+- [Velut](https://www.velut.co.uk/) - Website returning information on Latin vocabulary. There are lists of rhymes, tables of inflected forms, links to other online resources, and several other features. ([GitHub](https://github.com/DuncanRitchie/velut))
 - [Glosbe](https://glosbe.com/en/la) - Glosbe is the biggest community-built dictionary
 - [Latdict](https://www.latin-dictionary.net/) - Latdict was created to be a Latin resource website, provided free of charge, to the online community.
 - [Latin-English Dictionary](https://www.latin-english.com/) - A simple and powerful online Latin dictionary
