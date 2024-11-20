@@ -2,6 +2,13 @@
 
 > A curated list of some *egregius* Latin language resources
 
+## For beginners
+
+- [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/) - An excellent list of original latin texts for beginners
+- [Legonium](https://www.legonium.com/) - Many stories, brilliantly illustrated with lego figures ([Part 1](https://www.legonium.com/prima-1)) (There's also a book, see below)
+- [Gilbo by Anthony Gibbins](https://libellilatini.blogspot.com/2009/08/gilbo-anthony-gibbins.html) - 18 chapters, made using South Park Studio
+- [The Latin Vulgate Old Testament Bible](https://vulgate.org/ot/genesis_1.htm)
+
 ## Translation 
 
 - [Kagi Translate](https://translate.kagi.com/)
@@ -32,7 +39,8 @@ These sites usually offer more than just simple word lookup 💡
 ## Books
 
 - [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high-quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
-- [Latinitium Books & Audiobooks](https://store.latinitium.com/) 
+- [Latinitium Books & Audiobooks](https://store.latinitium.com/)
+- [Legonium Season One](https://www.lulu.com/shop/anthony-gibbins/legonium-season-one/paperback/product-24218945.html?page=1&pageSize=4) - a Latin story, told entirely in bricks
 
 ## Podcasts
 
