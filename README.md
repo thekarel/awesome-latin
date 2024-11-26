@@ -38,6 +38,7 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Books
 
+- [Nubes](https://www.nubes.live/en/) - Gorgeous comic books in Latin - Nubes is the result of a deep love for classicism that has naturally driven toward a goal: to introduce the past in a respectful but engaging way, taking advantage of contemporary techniques and styles.
 - [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high-quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
 - [Latinitium Books & Audiobooks](https://store.latinitium.com/)
 - [Legonium Season One](https://www.lulu.com/shop/anthony-gibbins/legonium-season-one/paperback/product-24218945.html?page=1&pageSize=4) - a Latin story, told entirely in bricks
