@@ -35,6 +35,7 @@ These sites usually offer more than just simple word lookup 💡
 - [Cattus Learn Latin](https://cattus.app/) - Cattus is an app designed for learning Latin from its most basic principles to intermediate levels ([iOS](https://apps.apple.com/gb/app/cattus-learn-latin/id1549661920), [Android](https://play.google.com/store/apps/details?id=com.cattuslatin.cattus_app&hl=en-US))
 - [Duolingo](https://www.duolingo.com/) The free, fun, and effective way to learn a language - with a shorter Latin course
 - [Collatinus](https://outils.biblissima.fr/en/collatinus-web/index.php) - Lemmatiser and morphological analyser for Latin texts - runs on Windows, Mac and Linux (open source)
+- [Grammaticus Maximus](https://magludo.itch.io/gramax) - You are Grammaticus Maximus, the leader of the Roman army. By sending legionnaires of the correct case, gender and number to fight the advancing barbarians you can save Rome from destruction. [Android](https://apps.apple.com/us/app/grammaticus-maximus-latijn/id1611073700) | [iOS](https://play.google.com/store/apps/details?id=com.DeGameMeester.GrammaticusMaximus) | [Reddit](https://www.reddit.com/r/latin/comments/1fi6obb/grammaticus_maximus_latin_educational_game/)
 
 ## Books
 
