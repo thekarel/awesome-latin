@@ -39,6 +39,7 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Books
 
+- [Cambridge Latin Course](https://myclc.co.uk/) - reading materials and tests from Books I, II and III from the 5th edition
 - [Nubes](https://www.nubes.live/en/) - Gorgeous comic books in Latin - Nubes is the result of a deep love for classicism that has naturally driven toward a goal: to introduce the past in a respectful but engaging way, taking advantage of contemporary techniques and styles.
 - [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high-quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
 - [Latinitium Books & Audiobooks](https://store.latinitium.com/)
