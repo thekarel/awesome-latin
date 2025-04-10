@@ -4,6 +4,7 @@
 
 ## For beginners
 
+- [Learning Latin](https://learninglatin.net/) - A comprehensive platform for both novice and seasoned Latin enthusiasts - Practice, Games, Translate
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/) - An excellent list of original latin texts for beginners
 - [Legonium](https://www.legonium.com/) - Many stories, brilliantly illustrated with lego figures ([Part 1](https://www.legonium.com/prima-1)) (There's also a book, see below)
 - [Gilbo by Anthony Gibbins](https://libellilatini.blogspot.com/2009/08/gilbo-anthony-gibbins.html) - 18 chapters, made using South Park Studio
