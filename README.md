@@ -44,6 +44,7 @@ These sites usually offer more than just simple word lookup 💡
 
 - [vocab-vault](https://github.com/cqb13/vocab-vault): Whitaker's Words Rust port with bidirectional translation (install from releases or `cargo install --git https://github.com/cqb13/vocab-vault` from source), more info about state of different Whitaker's Words variants [here](https://bitbucket.org/ben-crowell/whitakers-words/src/master/README.md) (most recently updated project I could find as of 01/07/2026)
 - [Latin Dictionary](https://gist.github.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15): still works as of 01/07/2026 (tested on Fedora 44), to build just `curl 'https://gist.githubusercontent.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15/raw/0f4ae5e8e88d0179e0723dbe0f4b5a0fbf54a1f5/Latin%2520Dictionary' -o la.cpp && g++ -O3 -Wall la.cpp -o la` then run binary with `./la` , more info at [gist page](https://gist.githubusercontent.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15) and in comments inside script
+  - keep in mind you need `g++` installed, to find the package run `dnf provides */g++` or your distro's equivalent
 
 ## Books
 
