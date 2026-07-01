@@ -38,6 +38,13 @@ These sites usually offer more than just simple word lookup 💡
 - [Collatinus](https://outils.biblissima.fr/en/collatinus-web/index.php) - Lemmatiser and morphological analyser for Latin texts - runs on Windows, Mac and Linux (open source)
 - [Grammaticus Maximus](https://magludo.itch.io/gramax) - You are Grammaticus Maximus, the leader of the Roman army. By sending legionnaires of the correct case, gender and number to fight the advancing barbarians you can save Rome from destruction. [Android](https://apps.apple.com/us/app/grammaticus-maximus-latijn/id1611073700) | [iOS](https://play.google.com/store/apps/details?id=com.DeGameMeester.GrammaticusMaximus) | [Reddit](https://www.reddit.com/r/latin/comments/1fi6obb/grammaticus_maximus_latin_educational_game/)
 
+## Tools
+
+100% offline:
+
+- [vocab-vault](https://github.com/cqb13/vocab-vault): Whitaker's Words Rust port with bidirectional translation (install from releases or `cargo install --git https://github.com/cqb13/vocab-vault` from source), more info about state of different Whitaker's Words variants [here](https://bitbucket.org/ben-crowell/whitakers-words/src/master/README.md) (most recently updated project I could find as of 01/07/2026)
+- [Latin Dictionary](https://gist.github.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15): still works as of 01/07/2026 (tested on Fedora 44), to install just `curl 'https://gist.githubusercontent.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15/raw/0f4ae5e8e88d0179e0723dbe0f4b5a0fbf54a1f5/Latin%2520Dictionary' -o la.cpp && g++ -O3 -Wall la.cpp -o la`, more info at [gist page](https://gist.githubusercontent.com/bathtime/5581898da581d4b0f3bd9d0a1794ec15) and in comments inside script
+
 ## Books
 
 - [Cambridge Latin Course](https://myclc.co.uk/) - reading materials and tests from Books I, II and III from the 5th edition
