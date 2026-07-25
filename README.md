@@ -74,4 +74,4 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Downloads
 
-- https://latin-dict.github.io/ (Greek and Latin)
+- https://latin-dict.github.io/ (open-source Greek and Latin dictionaries)
