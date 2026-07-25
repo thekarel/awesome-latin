@@ -71,3 +71,7 @@ These sites usually offer more than just simple word lookup 💡
 ## Latin Material
 
 - [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind-boggling amount of Latin books, dictionaries, audio and other resources.
+
+## Downloads
+
+- https://latin-dict.github.io/ (Greek and Latin)
