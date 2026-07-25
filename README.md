@@ -29,6 +29,7 @@ These sites usually offer more than just simple word lookup 💡
 - [Latin - English Dictionary](https://www.online-latin-dictionary.com/) - The largest and most complete online Latin dictionary with a conjugator and a declension tool included.
 - [Collatinus web](https://outils.biblissima.fr/en/collatinus-web/index.php) - Online lemmatiser and morphological analyser for Latin texts
 - [Dictionarium latino-anglicum](https://la-en.dict.cc/) - Every user is encouraged to contribute to the Latin-English dictionary by adding and/or verifying translation suggestions. The resulting vocabulary database can be downloaded and used for free.
+- [Latin dictionaries](https://latin-dict.github.io/) Open-source Greek and Latin dictionaries
 
 ## Apps
 
