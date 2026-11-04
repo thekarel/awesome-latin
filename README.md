@@ -4,6 +4,7 @@
 
 ## For beginners
 
+- [The National Archives Latin Lessons](https://www.nationalarchives.gov.uk/latin/stage-1-latin/lessons/) - 12 lessons and other resources for beginners
 - [Learning Latin](https://learninglatin.net/) - A comprehensive platform for both novice and seasoned Latin enthusiasts - Practice, Games, Translate
 - [Simple Latin Online Reading Resources](http://johnpiazza.net/latin/online-reading/) - An excellent list of original latin texts for beginners
 - [Legonium](https://www.legonium.com/) - Many stories, brilliantly illustrated with lego figures ([Part 1](https://www.legonium.com/prima-1)) (There's also a book, see below)
