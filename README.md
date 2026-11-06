@@ -31,6 +31,7 @@ These sites usually offer more than just simple word lookup 💡
 - [Collatinus web](https://outils.biblissima.fr/en/collatinus-web/index.php) - Online lemmatiser and morphological analyser for Latin texts
 - [Dictionarium latino-anglicum](https://la-en.dict.cc/) - Every user is encouraged to contribute to the Latin-English dictionary by adding and/or verifying translation suggestions. The resulting vocabulary database can be downloaded and used for free.
 - [Latin dictionaries](https://latin-dict.github.io/) Open-source Greek and Latin dictionaries
+- [Socratos](https://socratos.org) - Free reader for real Latin texts: tap any word in Caesar, Cicero, Vergil and 170 other works to see its meaning, parse and full table, with Lewis & Short entries and short beginner courses.
 
 ## Apps
 
