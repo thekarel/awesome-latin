@@ -74,6 +74,7 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Latin Material
 
+- [Learn Latin & Greek](https://github.com/fpsvogel/learn-latin-and-greek) - Resources for learning Latin and ancient Greek.
 - [Socratos Data](https://github.com/tferris13/socratos-data) - The Greek and Latin text and dictionary data behind Socratos
 - [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind-boggling amount of Latin books, dictionaries, audio and other resources.
 
