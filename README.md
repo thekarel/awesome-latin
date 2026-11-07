@@ -42,11 +42,13 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Books
 
+- [Socratos](https://socratos.org/) - Free reader for ancient Greek and Latin. Tap a word to see what it means and how it is built.
 - [Cambridge Latin Course](https://myclc.co.uk/) - reading materials and tests from Books I, II and III from the 5th edition
 - [Nubes](https://www.nubes.live/en/) - Gorgeous comic books in Latin - Nubes is the result of a deep love for classicism that has naturally driven toward a goal: to introduce the past in a respectful but engaging way, taking advantage of contemporary techniques and styles.
 - [Contubernales](https://contubernalesbooks.com/) - publishes affordable, high-quality Latin and Greek texts for those who want to learn and enjoy ancient languages.
 - [Latinitium Books & Audiobooks](https://store.latinitium.com/)
 - [Legonium Season One](https://www.lulu.com/shop/anthony-gibbins/legonium-season-one/paperback/product-24218945.html?page=1&pageSize=4) - a Latin story, told entirely in bricks
+- [Ancient Library](https://ancientlibrary.net/) - The Ancient Library is a complete parsing reader for the classical canon — over a thousand Greek and Latin works, presented so that every single word is clickable.
 
 ## Podcasts
 
@@ -72,5 +74,6 @@ These sites usually offer more than just simple word lookup 💡
 
 ## Latin Material
 
+- [Socratos Data](https://github.com/tferris13/socratos-data) - The Greek and Latin text and dictionary data behind Socratos
 - [Latin at Archive.org](https://archive.org/search?query=%28language%3Alat+OR+language%3A%22Latin%22%29) - A mind-boggling amount of Latin books, dictionaries, audio and other resources.
-- [Ancient Library](https://ancientlibrary.net/) - The Ancient Library is a complete parsing reader for the classical canon — over a thousand Greek and Latin works, presented so that every single word is clickable.
+
